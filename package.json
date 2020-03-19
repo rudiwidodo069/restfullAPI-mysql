@@ -1,0 +1,23 @@
+{
+  "name": "latihan",
+  "version": "1.0.0",
+  "description": "latihan express",
+  "main": "nodemon server.js",
+  "scripts": {
+    "test": "belajar express"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "js",
+    "myseql"
+  ],
+  "author": "rudi widodo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.5"
+  }
+}
